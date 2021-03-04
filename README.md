@@ -1,4 +1,4 @@
-# ead_php_alura_avancando-oo
+# ead_php_alura_composer
 
 > Projeto referente a [este](https://cursos.alura.com.br/course/php-composer) curso.
 
