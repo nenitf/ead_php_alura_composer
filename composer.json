@@ -24,7 +24,7 @@
         "phan/phan": "^4.0"
     },
     "scripts": {
-        "test": "phpunit"
+        "test": "phpunit tests\\TestBuscadorDeCursos.php",
+        "cs": "phpcs --standard=PSR12 src/"
     }
-
 }
