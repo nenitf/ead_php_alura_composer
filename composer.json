@@ -1,0 +1,12 @@
+{
+    "name": "nenitf/ead_php_alura_composer",
+    "description": "Buscador de cursos da Alura",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Felipe Silva",
+            "email": "felipe.dacs@gmail.com"
+        }
+    ],
+    "require": {}
+}
